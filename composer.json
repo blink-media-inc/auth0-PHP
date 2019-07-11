@@ -1,7 +1,7 @@
 {
-  "name": "auth0/auth0-php",
+  "name": "blink-media-inc/auth0-php",
   "description": "Auth0 PHP SDK.",
-  "homepage": "https://github.com/auth0/auth0-PHP",
+  "homepage": "https://github.com/blink-media-inc/auth0-PHP",
   "license": "MIT",
   "authors": [
     {
